@@ -1,4 +1,4 @@
-# Image_Manipulation
+# Image Manipulation
 
 P1: The goal of the model is to generate a blurred image, a contour line image, and an image with canny edge detection.
 This is done by taking an image as user input and the manipulation starts where the output is stored in the other directory named as "img_output".
