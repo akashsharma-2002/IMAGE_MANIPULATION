@@ -1,8 +1,7 @@
 # Image_Manipulation
 
-## P1: The goal of the model is to generate a blurred image, a contour line image, and an image with canny edge detection.
-## This is done by taking an image as user input and the manipulation starts where the output is stored in the other directory named as
-## mg_output.
+P1: The goal of the model is to generate a blurred image, a contour line image, and an image with canny edge detection.
+This is done by taking an image as user input and the manipulation starts where the output is stored in the other directory named as "img_output".
 
 ### HOW TO RUN?
 
@@ -40,8 +39,31 @@ create a file called "img_output" in the current working directory where all the
 
 
 
-#P2
 
+## P2: The Goal of the model is to detect the Dominant color in the image provided by the user
+
+## Sample output for some images
+
+#### 1: For the below image
+
+<img width="483" alt="Screenshot 2023-07-28 at 12 00 55 AM" src="https://github.com/akashsharma-2002/Image_Manipulation/assets/73756172/ffab5a22-daf2-4af7-bd3c-1e7b5dcb5cc6">
+
+
+#### OUTPUT
+
+<img width="590" alt="Screenshot 2023-07-28 at 12 01 56 AM" src="https://github.com/akashsharma-2002/Image_Manipulation/assets/73756172/b35861b2-78bd-43ad-a308-4d39c34d3683">
+
+
+#### 2: For the below image
+
+
+<img width="431" alt="Screenshot 2023-07-28 at 12 03 02 AM" src="https://github.com/akashsharma-2002/Image_Manipulation/assets/73756172/64094cc6-a326-407b-98ea-a937562efd92">
+
+
+#### OUTPUT
+
+
+<img width="540" alt="Screenshot 2023-07-28 at 12 03 43 AM" src="https://github.com/akashsharma-2002/Image_Manipulation/assets/73756172/42c42285-6fe1-48e2-98ab-17cb54a8082a">
 
 
 
